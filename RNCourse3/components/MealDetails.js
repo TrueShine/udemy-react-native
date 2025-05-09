@@ -24,7 +24,7 @@ export default MealDetails;
 
 const styles = StyleSheet.create({
   details: {
-    flexDirection: "row",
+flexDirection: "row",
     alignItems: "center",
     justifyContent: "center",
     padding: 8,

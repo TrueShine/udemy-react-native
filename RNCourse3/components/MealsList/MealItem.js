@@ -7,8 +7,8 @@ import {
   Platform,
 } from "react-native";
 import { useNavigation } from "@react-navigation/native";
-import MealDetailScreen from "../screens/MealDetailScreen";
-import MealDetails from "./MealDetails";
+
+import MealDetails from "../MealDetails";
 
 function MealItem({
   id,
