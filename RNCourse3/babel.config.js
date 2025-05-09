@@ -5,3 +5,4 @@ module.exports = function (api) {
     plugins: ["react-native-reanimated/plugin"], // ✅ 반드시 추가
   };
 };
+민
