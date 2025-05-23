@@ -14,4 +14,6 @@ function PlaceItem({ place, onSelect }) {
 
 export default PlaceItem;
 
-const styles = StyleSheet.create({});
+const styles = StyleSheet.create({
+    
+});
